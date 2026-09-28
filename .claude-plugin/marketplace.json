@@ -1,0 +1,19 @@
+{
+  "name": "pal-plugins",
+  "description": "KeelingYU's plugins for Claude Code and Codex. KeelingYU 的 Claude Code 与 Codex 插件。",
+  "owner": { "name": "KeelingYU" },
+  "plugins": [
+    {
+      "name": "coding-pal",
+      "description": "Development workflow for people who don't write code: requirements, UI, plan, build and acceptance. 让不写代码的人按需求到验收把项目做出来的开发流程。",
+      "version": "2.0.0",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/KeelingYU/coding-pal.git",
+        "path": "plugins/coding-pal",
+        "ref": "feat/plugin-install",
+        "sha": "bbe1066bab25a95d6f35392958a22ef27c1619df"
+      }
+    }
+  ]
+}

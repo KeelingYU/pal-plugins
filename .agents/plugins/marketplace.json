@@ -1,0 +1,17 @@
+{
+  "name": "pal-plugins",
+  "interface": { "displayName": "Pal Plugins" },
+  "plugins": [
+    {
+      "name": "coding-pal",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/KeelingYU/coding-pal.git",
+        "path": "plugins/coding-pal",
+        "ref": "bbe1066bab25a95d6f35392958a22ef27c1619df"
+      },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Developer Tools"
+    }
+  ]
+}
