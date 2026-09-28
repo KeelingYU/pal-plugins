@@ -26,15 +26,15 @@ Or send this repository's link to Claude Code or Codex and say "install coding-p
 
 ## Update
 
-New versions arrive only when you ask. Tell the agent "update coding-pal", or run:
+Only released versions reach you; work in progress never does.
 
-Claude Code:
+Claude Code updates only when you ask. Tell the agent "update coding-pal", or run (then restart Claude Code):
 
 ```bash
 claude plugin marketplace update pal-plugins && claude plugin update coding-pal@pal-plugins
 ```
 
-Codex:
+Codex updates to the latest release automatically each time you start a new session. To update right away, run:
 
 ```bash
 codex plugin marketplace upgrade pal-plugins

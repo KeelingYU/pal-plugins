@@ -26,15 +26,15 @@ codex plugin marketplace add KeelingYU/pal-plugins && codex plugin add coding-pa
 
 ## 更新
 
-只有你要求时才会更新。对 Agent 说「更新 coding-pal」，或者运行：
+你只会拿到已发布的版本，开发中的改动不会到你这里。
 
-Claude Code：
+Claude Code 只在你要求时更新。对 Agent 说「更新 coding-pal」，或者运行（运行后重启 Claude Code）：
 
 ```bash
 claude plugin marketplace update pal-plugins && claude plugin update coding-pal@pal-plugins
 ```
 
-Codex：
+Codex 每次开新会话时会自动更新到最新发布版。想立即更新，运行：
 
 ```bash
 codex plugin marketplace upgrade pal-plugins
