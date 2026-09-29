@@ -1,7 +1,9 @@
 {
   "name": "pal-plugins",
   "description": "KeelingYU's plugins for Claude Code and Codex. KeelingYU 的 Claude Code 与 Codex 插件。",
-  "owner": { "name": "KeelingYU" },
+  "owner": {
+    "name": "KeelingYU"
+  },
   "plugins": [
     {
       "name": "coding-pal",
@@ -12,7 +14,7 @@
         "url": "https://github.com/KeelingYU/coding-pal.git",
         "path": "plugins/coding-pal",
         "ref": "feat/plugin-install",
-        "sha": "bbe1066bab25a95d6f35392958a22ef27c1619df"
+        "sha": "75143be5ba7ffccc7bb3c6770f6d2244ed470579"
       }
     }
   ]
