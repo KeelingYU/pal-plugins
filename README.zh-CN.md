@@ -24,6 +24,10 @@ codex plugin marketplace add KeelingYU/pal-plugins && codex plugin add coding-pa
 
 也可以把本仓库的链接发给 Claude Code 或 Codex，说「用这个安装 coding-pal」。安装不会往你的任何项目里写文件。
 
+## 使用
+
+装好后新开一个会话（Claude Code 需要重启），在任意项目里说「用 coding-pal 做……」。也可以在 Claude Code 里输入 `/coding-pal:coding-pal`，在 Codex 里输入 `$coding-pal`。
+
 ## 更新
 
 你只会拿到已发布的版本，开发中的改动不会到你这里。

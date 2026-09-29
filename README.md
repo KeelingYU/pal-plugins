@@ -24,6 +24,10 @@ codex plugin marketplace add KeelingYU/pal-plugins && codex plugin add coding-pa
 
 Or send this repository's link to Claude Code or Codex and say "install coding-pal from this". Installing never writes into your projects.
 
+## Use
+
+After installing, start a new session (restart Claude Code), then in any project say "use coding-pal to build …". You can also type `/coding-pal:coding-pal` in Claude Code or `$coding-pal` in Codex.
+
 ## Update
 
 Only released versions reach you; work in progress never does.
