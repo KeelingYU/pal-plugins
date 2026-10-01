@@ -10,7 +10,7 @@
         "source": "git-subdir",
         "url": "https://github.com/KeelingYU/coding-pal.git",
         "path": "plugins/coding-pal",
-        "ref": "75143be5ba7ffccc7bb3c6770f6d2244ed470579"
+        "ref": "730eee32d1484566b4c4ba8e8eba41f68e6877df"
       },
       "policy": {
         "installation": "AVAILABLE",
