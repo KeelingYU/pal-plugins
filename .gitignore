@@ -1,1 +1,10 @@
 .DS_Store
+
+# 本机配置、凭据与无关文件
+__MACOSX/
+.env
+.env.*
+!.env.example
+*credential*
+*.key
+CLAUDE.local.md
