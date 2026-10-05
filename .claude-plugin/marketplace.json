@@ -8,13 +8,13 @@
     {
       "name": "coding-pal",
       "description": "Development workflow for people who don't write code: requirements, UI, plan, build and acceptance. 让不写代码的人按需求到验收把项目做出来的开发流程。",
-      "version": "4.0.0",
+      "version": "5.0.0",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/KeelingYU/coding-pal.git",
         "path": "plugins/coding-pal",
-        "ref": "v4.0.0",
-        "sha": "1becf428a6d5e3e8fd40d5118465c8fa9a44c41b"
+        "ref": "v5.0.0",
+        "sha": "3515c7907dfe48e4720605885adf3c1395c69294"
       }
     }
   ]
