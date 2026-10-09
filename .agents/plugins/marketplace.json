@@ -10,14 +10,14 @@
         "source": "git-subdir",
         "url": "https://github.com/KeelingYU/coding-pal.git",
         "path": "plugins/coding-pal",
-        "ref": "20f893b78e65ba27cd293d4bb99ea729d68e5c37"
+        "ref": "3f1096850737cdf5b38d32af65558864addce4e1"
       },
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "ON_INSTALL"
       },
       "category": "Developer Tools",
-      "version": "5.4.0"
+      "version": "5.4.1"
     }
   ]
 }
